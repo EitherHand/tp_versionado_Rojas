@@ -10,6 +10,8 @@ int main() {
 
     int num;
 
+    cout << "-----Identificador de números pares e impares-----" << endl;
+
     cout << "Ingrese un número: ";
     cin >> num;
 
